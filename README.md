@@ -1,1 +1,1 @@
-# cnnVariation
+# Training Different CNN model from scratch 
