@@ -1,6 +1,6 @@
 # Training different CNN model from scratch 
 
-Models:
+CNN models:
 
 1. NN with 4 Convolutional layer
 
